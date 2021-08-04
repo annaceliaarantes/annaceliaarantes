@@ -1,10 +1,10 @@
 ## Olá sou a Anna
-🎈Analista de Operaçõe
-🎆Análise e desenvolvimento de sistemas
- 🧠Futura Product Manager 
+- 🎈Analista de Operaçõe
+-🎆Análise e desenvolvimento de sistemas
+- 🧠Futura Product Manager 
 - 📘 Estudando SQL
 - 🙋🏼‍♀️ Pronouns: Ela/dela
-- 
+
 
 <div>
  <a href="https://github.com/annaceliaarantes">

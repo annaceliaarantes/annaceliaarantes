@@ -11,13 +11,7 @@
 </div>
                                          
                                          
- <div>
 
-    
-  <img align="right" alt="Anna-Gif" src="https://picrew.me/share?cd=94FChC1ENm #Picrew #AmphyPop_Doll_Maker
-  ![Snake animation](https://github.com/rafaballerini/annaceliaarantes/blob/output/github-contribution-grid-snake.svg)
- </div>
- 
    ##
  
 <div> 

@@ -1,6 +1,6 @@
 ## Olá sou a Anna
-- 🎈Analista de Operaçõe
--🎆Análise e desenvolvimento de sistemas
+- 🎈Analista de Operações   
+- 🎆Análise e desenvolvimento de sistemas
 - 🧠Futura Product Manager 
 - 📘 Estudando SQL
 - 🙋🏼‍♀️ Pronouns: Ela/dela

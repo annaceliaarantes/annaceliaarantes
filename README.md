@@ -1,5 +1,4 @@
 ## Olá sou a Anna
-- 🎈Analista de Operações   
 - 🎆Análise e desenvolvimento de sistemas
 - 🧠Futura Product Manager 
 - 📘 Estudando SQL

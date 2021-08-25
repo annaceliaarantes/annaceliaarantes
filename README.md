@@ -1,6 +1,6 @@
 ## Olá sou a Anna
 - 🎆Análise e desenvolvimento de sistemas
-- 🧠Futura Product Manager 
+- 🧠Futura Product Owner
 - 🎯 Estudando SQL e gestão de produto
 - 🙋🏼‍♀️ Pronouns: Ela/dela
 
